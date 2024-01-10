@@ -16,7 +16,3 @@ Enter your API key in the sidebar and start chatting with the bot. You can also 
 ![Chat Interface](./screenshots/chat_interface.png)
 ![Summarised Conversation](./screenshots/summarised_conversation.png)
 
-## Future Updates
-
-1. Chat can be displayed along with the chat summary.
-2. Find a way to fix Memory Error when there is no chat history to summarise.
